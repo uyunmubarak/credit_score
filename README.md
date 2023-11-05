@@ -21,10 +21,10 @@ The dataset used 255,347 rows from 18 variables, but only uses a few variables t
 ** - Implementation Plan**
 1. Setting Cutoff Score
 2. Workflow Credit Process
-<img src="img/workflow.png" width="1000"/>
+<img src="workflow.png" width="1000"/>
 3. Prediction Credit Score User Interface
-<img src="img/1.png" width="1000"/>
-<img src="img/1.png" width="1000"/>
+<img src="1.png" width="1000"/>
+<img src="2.png" width="1000"/>
 
 ### - Conclusion
 The logistic regression model that has been adjusted by selecting the right cut-off score is able to predict the credit score well. The model was able to distinguish between good and bad applicants with a recall rate of 68%. The overall quality of the model was rated as good with an AUC of 0.74. This indicates that the model can be used to support credit decisions well.
